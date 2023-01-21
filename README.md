@@ -1,8 +1,8 @@
-#FoodTruck Application
+# FoodTruck Application
 
 
-#Description
+# Description
 
-#Technologies Used
+# Technologies Used
 
-#Lessons Learned# FoodTruckProject
+# Lessons Learned
